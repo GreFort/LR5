@@ -1,0 +1,4 @@
+﻿  DecTemp.cpp
+D:\Programs\MVS Files\Project\Лабораторная работа 5\DecTemp\DecTempHeader.h(119): warning C4715: DequeTemp<int>::PopFront: значение возвращается не при всех путях выполнения
+D:\Programs\MVS Files\Project\Лабораторная работа 5\DecTemp\DecTempHeader.h(129): warning C4715: DequeTemp<int>::PopBack: значение возвращается не при всех путях выполнения
+  DecTemp.vcxproj -> D:\Programs\MVS Files\Project\Лабораторная работа 5\Debug\DecTemp.exe
